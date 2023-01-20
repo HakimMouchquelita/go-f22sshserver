@@ -1,6 +1,6 @@
 package cmd
 
-import "github.com/ief2i-florent/go-f22/src/fs"
+import "github.com/HakimMouchquelita/golang/src/fs"
 
 func init() {
 	RootCommand.PersistentFlags().BoolVarP(&fs.DEBUG, "debug", "d", fs.DEBUG, "enable debug mode for display tracing")

@@ -1,6 +1,6 @@
 package main
 
-import "github.com/ief2i-florent/go-f22/cmd"
+import "github.com/HakimMouchquelita/golang/cmd"
 
 func main() {
 	cmd.RootCommand.Execute()

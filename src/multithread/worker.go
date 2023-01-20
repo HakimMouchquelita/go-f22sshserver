@@ -3,7 +3,7 @@ package multithread
 import (
 	"strings"
 
-	"github.com/ief2i-florent/go-f22/src/fs"
+	"github.com/HakimMouchquelita/golang/src/fs"
 )
 
 func SplitFiles(slice []string, chunkSize int) [][]string {
