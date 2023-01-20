@@ -6,8 +6,8 @@ import (
 	"os"
 	"runtime"
 
-	"github.com/HakimMouchquelita/golang/src/fs"
-	"github.com/HakimMouchquelita/golang/src/multithread"
+	"github.com/HakimMouchquelita/GO-F22ssh/src/fs"
+	"github.com/HakimMouchquelita/GO-F22ssh/src/multithread"
 	"github.com/schollz/progressbar/v3"
 	"github.com/spf13/cobra"
 )

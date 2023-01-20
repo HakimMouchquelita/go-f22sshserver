@@ -1,4 +1,4 @@
-module github.com/HakimMouchquelita/golang
+module github.com/HakimMouchquelita/GO-F22ssh
 
 go 1.19
 
